@@ -29,15 +29,15 @@ defmodule Vimeo.Mixfile do
 
   defp deps do
     [
-      {:httpoison, "~> 0.7.2"},
-      {:poison, "~> 1.5"},
+      {:credo, "~> 0.1.9", only: [:dev, :test]},
+      {:dotenv, "~> 2.0.0", only: [:dev, :test]},
       {:earmark, "~> 0.1", only: [:dev, :docs]},
       {:ex_doc, "~> 0.10.0", only: [:dev, :docs]},
-      {:inch_ex, "~> 0.4.0", only: [:dev, :docs]},
       {:excoveralls, "~> 0.3", only: [:dev, :test]},
       {:exvcr, "~> 0.3", only: [:dev, :test]},
-      {:dotenv, "~> 2.0.0", only: [:dev, :test]},
-      {:credo, "~> 0.1.9", only: [:dev, :test]}
+      {:httpoison, "~> 0.7.2"},
+      {:inch_ex, "~> 0.4.0", only: [:dev, :docs]},
+      {:poison, "~> 1.5"}
     ]
   end
 
