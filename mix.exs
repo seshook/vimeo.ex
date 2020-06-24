@@ -6,11 +6,11 @@ defmodule Vimeo.Mixfile do
       app: :vimeo,
       version: "0.0.2",
       elixir: "~> 1.1",
-      build_embedded: Mix.env == :prod,
-      start_permanent: Mix.env == :prod,
-      deps: deps,
-      description: description,
-      package: package,
+      build_embedded: Mix.env() == :prod,
+      start_permanent: Mix.env() == :prod,
+      deps: deps(),
+      description: description(),
+      package: package(),
       docs: [extras: ["README.md"]],
       test_coverage: [tool: ExCoveralls],
       preferred_cli_env: [coveralls: :test]
@@ -19,12 +19,12 @@ defmodule Vimeo.Mixfile do
 
   # Configuration for the OTP application
   def application do
-    [applications: app_list(Mix.env)]
+    [applications: app_list(Mix.env())]
   end
 
-  defp app_list(:dev), do: [:dotenv | app_list]
-  defp app_list(:test), do: [:dotenv | app_list]
-  defp app_list(_), do: app_list
+  defp app_list(:dev), do: [:dotenv | app_list()]
+  defp app_list(:test), do: [:dotenv | app_list()]
+  defp app_list(_), do: app_list()
   defp app_list, do: [:logger, :httpoison]
 
   defp deps do
