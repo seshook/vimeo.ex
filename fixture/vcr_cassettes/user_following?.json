@@ -10,7 +10,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/users/4443526/following/foobar?"
+      "url": "https://api.vimeo.com/users/4443526/following/foobar"
     },
     "response": {
       "body": "{\"error\":\"The requested followed user could not be found\"}",
@@ -48,7 +48,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/users/4443526/following/artsnvideo?"
+      "url": "https://api.vimeo.com/users/4443526/following/artsnvideo"
     },
     "response": {
       "body": "#Reference<0.0.4.49>",

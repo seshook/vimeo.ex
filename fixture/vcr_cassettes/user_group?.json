@@ -10,7 +10,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/users/4443526/groups/foobar?"
+      "url": "https://api.vimeo.com/users/4443526/groups/foobar"
     },
     "response": {
       "body": "{\"error\":\"The requested group could not be found\"}",
@@ -48,7 +48,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/users/4443526/groups/hdxs?"
+      "url": "https://api.vimeo.com/users/4443526/groups/hdxs"
     },
     "response": {
       "body": "#Reference<0.0.3.115>",

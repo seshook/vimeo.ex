@@ -10,7 +10,7 @@
       "method": "delete",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/videos/96652365/comments/13864877?"
+      "url": "https://api.vimeo.com/videos/96652365/comments/13864877"
     },
     "response": {
       "body": "#Reference<0.0.2.107>",
@@ -47,7 +47,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/videos/96652365/comments/13864877?"
+      "url": "https://api.vimeo.com/videos/96652365/comments/13864877"
     },
     "response": {
       "body": "{\"error\":\"An unknown error has occurred. Please let us know!\"}",

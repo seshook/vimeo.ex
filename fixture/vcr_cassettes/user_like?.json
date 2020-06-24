@@ -10,7 +10,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/users/4443526/likes/123?"
+      "url": "https://api.vimeo.com/users/4443526/likes/123"
     },
     "response": {
       "body": "{\"error\":\"The requested video could not be found\"}",
@@ -48,7 +48,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/users/4443526/likes/96652365?"
+      "url": "https://api.vimeo.com/users/4443526/likes/96652365"
     },
     "response": {
       "body": "#Reference<0.0.4.220>",

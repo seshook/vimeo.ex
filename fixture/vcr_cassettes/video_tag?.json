@@ -10,7 +10,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/videos/96652365/tags/hello?"
+      "url": "https://api.vimeo.com/videos/96652365/tags/hello"
     },
     "response": {
       "body": "{\"error\":\"The requested tag could not be found\"}",
@@ -49,7 +49,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/videos/96652365/tags/lyon?"
+      "url": "https://api.vimeo.com/videos/96652365/tags/lyon"
     },
     "response": {
       "body": "{\"uri\":\"/tags/lyon\",\"name\":\"lyon\",\"tag\":\"lyon\",\"canonical\":\"lyon\",\"metadata\":{\"connections\":{\"videos\":{\"uri\":\"/tags/lyon/videos\",\"options\":[\"GET\"],\"total\":10578}}}}",

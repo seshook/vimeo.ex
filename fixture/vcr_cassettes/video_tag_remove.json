@@ -10,7 +10,7 @@
       "method": "delete",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/videos/18629165/tags/friends?"
+      "url": "https://api.vimeo.com/videos/18629165/tags/friends"
     },
     "response": {
       "body": "#Reference<0.0.4.273>",
@@ -47,7 +47,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/videos/18629165/tags?"
+      "url": "https://api.vimeo.com/videos/18629165/tags"
     },
     "response": {
       "body": "{\"total\":3,\"page\":1,\"per_page\":25,\"paging\":{\"next\":null,\"previous\":null,\"first\":\"/videos/18629165/tags?page=1\",\"last\":\"/videos/18629165/tags?page=1\"},\"data\":[{\"uri\":\"/videos/18629165/tags/roller\",\"name\":\"roller\",\"tag\":\"roller\",\"canonical\":\"roller\",\"metadata\":{\"connections\":{\"videos\":{\"uri\":\"/videos/18629165/tags/roller/videos\",\"options\":[\"GET\"],\"total\":10030}}}},{\"uri\":\"/videos/18629165/tags/dijon\",\"name\":\"dijon\",\"tag\":\"dijon\",\"canonical\":\"dijon\",\"metadata\":{\"connections\":{\"videos\":{\"uri\":\"/videos/18629165/tags/dijon/videos\",\"options\":[\"GET\"],\"total\":1233}}}},{\"uri\":\"/videos/18629165/tags/d3100\",\"name\":\"d3100\",\"tag\":\"d3100\",\"canonical\":\"d3100\",\"metadata\":{\"connections\":{\"videos\":{\"uri\":\"/videos/18629165/tags/d3100/videos\",\"options\":[\"GET\"],\"total\":1727}}}}]}",

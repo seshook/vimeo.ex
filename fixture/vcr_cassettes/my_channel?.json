@@ -10,7 +10,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/me/channels/foobar?"
+      "url": "https://api.vimeo.com/me/channels/foobar"
     },
     "response": {
       "body": "{\"error\":\"The requested Channel Subscription could not be found\"}",
@@ -48,7 +48,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/me/channels/themgoods?"
+      "url": "https://api.vimeo.com/me/channels/themgoods"
     },
     "response": {
       "body": "#Reference<0.0.4.242>",

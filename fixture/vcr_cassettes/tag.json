@@ -10,7 +10,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/tags/party?"
+      "url": "https://api.vimeo.com/tags/party"
     },
     "response": {
       "body": "{\"uri\":\"/tags/party\",\"name\":\"party\",\"tag\":\"party\",\"canonical\":\"party\",\"metadata\":{\"connections\":{\"videos\":{\"uri\":\"/tags/party/videos\",\"options\":[\"GET\"],\"total\":121931}}}}",

@@ -10,7 +10,7 @@
       "method": "delete",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/channels/999585?"
+      "url": "https://api.vimeo.com/channels/999585"
     },
     "response": {
       "body": "#Reference<0.0.4.994>",
@@ -46,7 +46,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/me/channels?"
+      "url": "https://api.vimeo.com/me/channels"
     },
     "response": {
       "body": "{\"total\":1,\"page\":1,\"per_page\":25,\"paging\":{\"next\":null,\"previous\":null,\"first\":\"/me/channels?page=1\",\"last\":\"/me/channels?page=1\"},\"data\":[]}",
