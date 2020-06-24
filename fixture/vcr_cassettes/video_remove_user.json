@@ -10,7 +10,7 @@
       "method": "delete",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/videos/18629165/privacy/users/artsnvideo?"
+      "url": "https://api.vimeo.com/videos/18629165/privacy/users/artsnvideo"
     },
     "response": {
       "body": "#Reference<0.0.4.239>",
@@ -47,7 +47,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/videos/18629165/privacy/users?"
+      "url": "https://api.vimeo.com/videos/18629165/privacy/users"
     },
     "response": {
       "body": "{\"total\":0,\"page\":1,\"per_page\":25,\"paging\":{\"next\":null,\"previous\":null,\"first\":\"/videos/18629165/privacy/users?page=1\",\"last\":\"/videos/18629165/privacy/users?page=1\"},\"data\":[]}",

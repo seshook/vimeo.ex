@@ -10,7 +10,7 @@
       "method": "delete",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/me/albums/3608474?"
+      "url": "https://api.vimeo.com/me/albums/3608474"
     },
     "response": {
       "body": "#Reference<0.0.2.509>",
@@ -46,7 +46,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/me/albums?"
+      "url": "https://api.vimeo.com/me/albums"
     },
     "response": {
       "body": "{\"total\":0,\"page\":1,\"per_page\":25,\"paging\":{\"next\":null,\"previous\":null,\"first\":\"/me/albums?page=1\",\"last\":\"/me/albums?page=1\"},\"data\":[]}",

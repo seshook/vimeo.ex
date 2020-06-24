@@ -10,7 +10,7 @@
       "method": "put",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/videos/18629165/tags/friends?"
+      "url": "https://api.vimeo.com/videos/18629165/tags/friends"
     },
     "response": {
       "body": "{\"uri\":\"/tags/friends\",\"name\":\"friends\",\"tag\":\"friends\",\"canonical\":\"friends\",\"metadata\":{\"connections\":{\"videos\":{\"uri\":\"/tags/friends/videos\",\"options\":[\"GET\"],\"total\":46546}}}}",

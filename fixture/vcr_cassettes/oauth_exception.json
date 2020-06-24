@@ -9,7 +9,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/me?"
+      "url": "https://api.vimeo.com/me"
     },
     "response": {
       "body": "{\"error\":\"You must provide a valid authenticated access token.\"}",

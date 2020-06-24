@@ -10,7 +10,7 @@
       "method": "delete",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/groups/342299?"
+      "url": "https://api.vimeo.com/groups/342299"
     },
     "response": {
       "body": "#Reference<0.0.4.40>",
@@ -46,7 +46,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/me/groups?"
+      "url": "https://api.vimeo.com/me/groups"
     },
     "response": {
       "body": "{\"total\":1,\"page\":1,\"per_page\":25,\"paging\":{\"next\":null,\"previous\":null,\"first\":\"/me/groups?page=1\",\"last\":\"/me/groups?page=1\"},\"data\":[]}",

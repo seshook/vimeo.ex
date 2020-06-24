@@ -10,7 +10,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/me/groups/foobar?"
+      "url": "https://api.vimeo.com/me/groups/foobar"
     },
     "response": {
       "body": "{\"error\":\"The requested group could not be found\"}",
@@ -48,7 +48,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/me/groups/theconference?"
+      "url": "https://api.vimeo.com/me/groups/theconference"
     },
     "response": {
       "body": "#Reference<0.0.1.338>",

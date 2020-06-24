@@ -10,7 +10,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/videos/96652365/pictures/476766449?"
+      "url": "https://api.vimeo.com/videos/96652365/pictures/476766449"
     },
     "response": {
       "body": "{\"uri\":\"/videos/96652365/pictures/476766449\",\"active\":true,\"type\":\"custom\",\"sizes\":[{\"width\":100,\"height\":75,\"link\":\"https://i.vimeocdn.com/video/476766449_100x75.jpg\"},{\"width\":200,\"height\":150,\"link\":\"https://i.vimeocdn.com/video/476766449_200x150.jpg\"},{\"width\":295,\"height\":166,\"link\":\"https://i.vimeocdn.com/video/476766449_295x166.jpg\"},{\"width\":640,\"height\":360,\"link\":\"https://i.vimeocdn.com/video/476766449_640x360.jpg\"},{\"width\":960,\"height\":540,\"link\":\"https://i.vimeocdn.com/video/476766449_960x540.jpg\"}]}",

@@ -10,7 +10,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/me/likes/123?"
+      "url": "https://api.vimeo.com/me/likes/123"
     },
     "response": {
       "body": "{\"error\":\"The requested video could not be found\"}",
@@ -48,7 +48,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/me/likes/141849348?"
+      "url": "https://api.vimeo.com/me/likes/141849348"
     },
     "response": {
       "body": "#Reference<0.0.3.1587>",

@@ -10,7 +10,7 @@
       "method": "get",
       "options": [],
       "request_body": "",
-      "url": "https://api.vimeo.com/users/4443526/pictures?"
+      "url": "https://api.vimeo.com/users/4443526/pictures"
     },
     "response": {
       "body": "{\"total\":1,\"page\":1,\"per_page\":25,\"paging\":{\"next\":null,\"previous\":null,\"first\":\"/users/4443526/pictures?page=1\",\"last\":\"/users/4443526/pictures?page=1\"},\"data\":[{\"uri\":\"/users/4443526/pictures/10245674\",\"active\":true,\"type\":\"custom\",\"sizes\":[{\"width\":30,\"height\":30,\"link\":\"https://i.vimeocdn.com/portrait/10245674_30x30.jpg?r=pad\"},{\"width\":75,\"height\":75,\"link\":\"https://i.vimeocdn.com/portrait/10245674_75x75.jpg?r=pad\"},{\"width\":100,\"height\":100,\"link\":\"https://i.vimeocdn.com/portrait/10245674_100x100.jpg?r=pad\"},{\"width\":300,\"height\":300,\"link\":\"https://i.vimeocdn.com/portrait/10245674_300x300.jpg?r=pad\"}]}]}",
