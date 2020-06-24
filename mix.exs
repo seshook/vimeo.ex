@@ -13,7 +13,13 @@ defmodule Vimeo.Mixfile do
       package: package(),
       docs: [extras: ["README.md"]],
       test_coverage: [tool: ExCoveralls],
-      preferred_cli_env: [coveralls: :test]
+      preferred_cli_env: [
+        coveralls: :test,
+        vcr: :test,
+        "vcr.check": :test,
+        "vcr.delete": :test,
+        "vcr.show": :test
+      ]
     ]
   end
 
